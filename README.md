@@ -1,8 +1,6 @@
 # Proiect_Econometrie
 
 ![1_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/6e440bc8-451c-4a9c-b0ea-ca8b8b3c3826)
-![2_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/6854ae65-bfd8-4c78-9caf-b7d309a11131)
-![3_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/26866b7f-cd5b-4948-a8f4-3ad8c2c4dafc)
 ![4_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/7f1642dc-0965-4a03-a3d3-4dc3d47d0e60)
 ![5_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/50d787b2-e935-4366-bfe0-7a93c699897c)
 ![6_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/0c0ed7c5-8f9e-46ec-be17-5fbdcc561a17)
@@ -14,4 +12,3 @@
 ![12_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/8b27b38b-813e-47cf-9008-1438e0ab96a3)
 ![13_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/1e4cbaa1-28fa-425d-9c79-0770c40a61d5)
 ![14_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/ea25021d-0fc2-4717-9bef-e0ad94377103)
-![15_Screenshot](https://github.com/catinaada/Proiect_Econometrie/assets/114821541/8db0abb8-0ff6-42af-bc0f-fb25ce272fb8)
